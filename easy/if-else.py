@@ -1,7 +1,4 @@
-"""
-https://www.hackerrank.com/challenges/py-if-else/problem
-"""
-number = input("Enter a number: ")
+number = input()
 
 # Try conver input to integer, otherwise say alert and quit
 try:

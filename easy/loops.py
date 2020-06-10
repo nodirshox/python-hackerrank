@@ -1,8 +1,4 @@
-"""
-https://www.hackerrank.com/challenges/python-loops/problem
-"""
-
-n = input("Enter a number: ")
+n = input()
 
 # Try convert input to integer, otherwise say alert and quit
 try:

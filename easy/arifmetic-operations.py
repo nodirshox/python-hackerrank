@@ -1,9 +1,5 @@
-"""
-https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
-"""
-
-a = input('Enter a: ')
-b = input('Enter b: ')
+a = input()
+b = input()
 
 # Try conver input to integer, otherwise say alert and quit
 try:
