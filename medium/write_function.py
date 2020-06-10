@@ -1,7 +1,7 @@
 def is_leap(year):
     leap = False
 
-    # Check logis
+    # Check leap year
     if year % 4 == 0:
         leap = True
         if year % 100 == 0 and year % 400:
